@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>SEResources/KnowledgeBase</file>
+        <file>SEResources/resetButton.jpg</file>
+        <file>SEResources/okButton.jpg</file>
+        <file>SEResources/nextButton.jpg</file>
+        <file>SEResources/logo.png</file>
+        <file>SEResources/logo1.jpg</file>
+        <file>SEResources/exitButton.jpg</file>
+        <file>SEResources/questionButton.jpg</file>
+        <file>SEResources/cover.jpg</file>
+        <file>SEResources/cancelButton.jpg</file>
+        <file>SEResources/backButton.jpg</file>
+        <file>SEResources/transmision_icon.png</file>
+        <file>SEResources/suspension_icon.png</file>
+        <file>SEResources/electrico_icon.png</file>
+        <file>SEResources/motor_icon.png</file>
+        <file>SEResources/frenos_icon.png</file>
+        <file>SEResources/direccion_icon.png</file>
+        <file>SEResources/qt_image.jpeg</file>
+        <file>SEResources/electric_image.jpeg</file>
+        <file>SEResources/suspension_image.jpeg</file>
+        <file>SEResources/wheel_image.jpeg</file>
+        <file>SEResources/steering_image.jpeg</file>
+        <file>SEResources/transmision_image.jpeg</file>
+        <file>SEResources/motor_image.jpeg</file>
+    </qresource>
+</RCC>

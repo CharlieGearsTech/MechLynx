@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/KnowledgeBase</file>
+    </qresource>
+</RCC>
